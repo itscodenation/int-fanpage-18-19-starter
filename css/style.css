@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    
+}
+a {
+    text-decoration: none;
+}
+
+.main {
+    height: 100%;
+}
+.social-image{
+    width: 30px;
+    margin: 15px;
+}
