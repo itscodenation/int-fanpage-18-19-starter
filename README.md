@@ -25,6 +25,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 #### Wrap
 - [ ] Push your changes!
+- [ ] Save and submit your Fanpage website using the link on the Daily Session Document.
 
 ## Day 2
 #### CSS
@@ -40,7 +41,6 @@ Make sure to check off your items as you complete them. [ ] => [x]
 ## Day 3
 #### CSS
 - [ ] Using the box model properties, style your thumbnails on the gallery page. 
-- [ ] Save and submit your Fanpage website using the link on the Daily Session Document.
 
 #### Wrap
 - [ ] Push your changes!
