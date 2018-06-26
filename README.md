@@ -1,5 +1,5 @@
-# ScriptEd Fansite!
-You will be building a fansite for your favorite book, TV show, artist, movie etc... Follow the steps below to make your very own site! 
+# ScriptEd Fan Page!
+You will be building a fan page for your favorite book, TV show, artist, movie etc... Follow the steps below to make your very own site! 
 Make sure to check off your items as you complete them. [ ] => [x]
 
 
@@ -13,7 +13,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
 #### HTML
-- [ ] Change the header to display the name of the fansite on each html page
+- [ ] Change the header to display the name of the fan page on each html page
 - [ ] Link the a tags in the navbar to the correct .html files on each html page
 - [ ] Link the a tags surrounding social media icons to the correct social media accounts on each html page
 - [ ] Add text to the element with the class of leftPane to describe who/what your fanpage is about in about.html
