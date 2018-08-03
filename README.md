@@ -5,7 +5,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 ## Day 1
 #### Planning
-- [ ] Choose a theme that you want your fansite to be about. Be careful to choose something you know and are able to write about!
+- [ ] Choose a theme that you want your fan page to be about. Be careful to choose something you know and are able to write about!
 - [ ] Collect the images you will need for your homepage, about page and gallery page.
 #### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/fanpage
